@@ -1,4 +1,4 @@
-# 2021 Crypto Analysis Contest #2 Solution
+# 2021 Cryptanalysis Contest #2 Solution
 
 먼저 '출제 의도상 모범 답안으로 추정되는 답안'은 [이 링크](https://hashmm.com/post/crypto-contest-2021-writeup/index.html)에서 확인할 수 있다.
 
