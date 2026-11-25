@@ -1,4 +1,4 @@
-# 2025 Crypto Analysis Contest #4 Solution
+# 2025 Cryptanalysis Contest #4 Solution
 
 이하의 해독 과정 및 notation은 [D. Lee et al. (2021)](https://ieeexplore.ieee.org/document/9666909)을 따른다.
 
